@@ -1,0 +1,10 @@
+.text-title-mod {
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+@media (min-width: 800px) {
+    .text-title-mod {
+      font-size: 2rem;
+    }
+  }
